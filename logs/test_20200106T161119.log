@@ -1,0 +1,36 @@
+06 January 
+ TRACE com.ibm.AOPdemo.App -
+                Trace message
+06 January 
+ DEBUG com.ibm.AOPdemo.App -
+                Debug message
+06 January 
+ INFO  com.ibm.AOPdemo.App -
+                Informational message
+06 January 
+ WARN  com.ibm.AOPdemo.App -
+                Warning message
+06 January 
+ ERROR com.ibm.AOPdemo.App -
+                Error message
+06 January 
+ ERROR com.ibm.AOPdemo.App -
+                / by zero
+06 January 
+ ERROR com.ibm.AOPdemo.App -
+                Exception
+java.lang.ArithmeticException: / by zero
+	at com.ibm.AOPdemo.App.method1(App.java:17)
+	at com.ibm.AOPdemo.App.main(App.java:32)
+06 January 
+ ERROR com.ibm.AOPdemo.App -
+                Exception
+java.lang.ArithmeticException: / by zero
+	at com.ibm.AOPdemo.App.method1(App.java:17)
+	at com.ibm.AOPdemo.App.main(App.java:32)
+06 January 
+ INFO  com.ibm.AOPdemo.App -
+                Method 2 Started
+06 January 
+ INFO  com.ibm.AOPdemo.App -
+                Method 2 Ended

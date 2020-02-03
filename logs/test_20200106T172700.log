@@ -1,0 +1,6 @@
+06 January 
+ INFO  com.ibm.aspect.LoggingAspect -
+                =========Before Add Note==========
+06 January 
+ DEBUG com.ibm.aspect.LoggingAspect -
+                Advice applied at com.ibm.service.NoteServiceImpl:addNote
